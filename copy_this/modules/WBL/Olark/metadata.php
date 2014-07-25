@@ -13,8 +13,8 @@
     $aModule = array(
         'author'      => 'WBL Konzept',
         'description' => array(
-            'de' => 'Olark Chatfunktion',
-            'en' => 'Olark Chatfunction'
+            'de' => 'Olark Chat',
+            'en' => 'Olark chat'
         ),
         'email'       => 'code@wbl-konzept.de',
         'extend'      => array(),

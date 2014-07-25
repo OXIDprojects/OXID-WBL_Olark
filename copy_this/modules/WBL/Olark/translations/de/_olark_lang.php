@@ -1,19 +1,19 @@
 <?php
     /**
-     * ./modules/WBL/Olark/out/admin/de/olark_lang.php
-     * @author     Bjoern Simon Lange
+     * ./modules/WBL/Olark/translations/de/_olark_lang.php
+     * @author     Bjoern Simon Lange <code@wbl-konzept.de>
      * @category   modules
      * @package    WBL_Olark
-     * @subpackage out_admin
+     * @subpackage translations
      * @version    SVN: $Id$
      */
 
     /**
      * German language file.
-     * @author     Bjoern Simon Lange
+     * @author     Bjoern Simon Lange <code@wbl-konzept.de>
      * @category   modules
      * @package    WBL_Olark
-     * @subpackage out_admin
+     * @subpackage translations
      * @version    SVN: $Id$
      */
 
