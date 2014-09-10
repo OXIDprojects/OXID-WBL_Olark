@@ -19,5 +19,5 @@
 
     return $aLang = array(
         'charset'           => 'UTF-8',
-        'WBL_OLARK_NS_LINK' => 'Fragen? Anregungen?'
+        'WBL_OLARK_NS_LINK' => 'Вопросы? Идеи?'
     );
