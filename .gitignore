@@ -1,0 +1,14 @@
+._*
+.~lock.*
+.buildpath
+.DS_Store
+.idea/*
+!.idea/codeStyleSettings.xml
+!.idea/encodings.xml
+!.idea/php.xml
+!.idea/vcs.xml
+.project
+.settings
+.vagrant
+*.bak
+composer.lock
