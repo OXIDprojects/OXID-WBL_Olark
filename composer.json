@@ -1,0 +1,15 @@
+{
+    "name": "wblkonzept/oxid-wbl_olark",
+    "description": "WBL_Olark is an OXID eShop module for easy integration of the website chat tool Olark (http://www.olark.com) into OXID eShop.",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Bjoern Lange",
+            "email": "b.lange@wbl-konzept.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+
+    }
+}
