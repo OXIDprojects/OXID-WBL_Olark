@@ -36,5 +36,9 @@
         'title'       => 'WBL Olark Chat',
         'thumbnail'   => 'wbl_logo.jpg',
         'url'         => 'http://wbl-konzept.de',
-        'version'     => '1.0.0'
+        /*
+         * 1.0.0 Init Release
+         * 1.0.1 Added languages en,ru
+         */
+        'version'     => '1.0.1'
     );
