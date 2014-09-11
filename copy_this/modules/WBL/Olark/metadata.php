@@ -13,8 +13,8 @@
     $aModule = array(
         'author'      => 'WBL Konzept',
         'description' => array(
-            'de' => 'Olark Chatfunktion',
-            'en' => 'Olark Chatfunction'
+            'de' => 'Olark Chat',
+            'en' => 'Olark chat'
         ),
         'email'       => 'code@wbl-konzept.de',
         'extend'      => array(),
@@ -36,5 +36,9 @@
         'title'       => 'WBL Olark Chat',
         'thumbnail'   => 'wbl_logo.jpg',
         'url'         => 'http://wbl-konzept.de',
-        'version'     => '1.0.0'
+        /*
+         * 1.0.0 Init Release
+         * 1.0.1 Added languages en,ru
+         */
+        'version'     => '1.0.1'
     );

@@ -19,6 +19,6 @@
 
     return $aLang = array(
         'charset'                          => 'UTF-8',
-        'SHOP_MODULE_GROUP_WBL_Olark_Main' => 'Allgemein',
-        'SHOP_MODULE_sWBLOlarkSiteID'      => 'Ihre Olark Site-ID',
+        'SHOP_MODULE_GROUP_WBL_Olark_Main' => 'General',
+        'SHOP_MODULE_sWBLOlarkSiteID'      => 'Your Olark Site-ID',
     );
