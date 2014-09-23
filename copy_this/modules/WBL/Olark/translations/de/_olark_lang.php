@@ -18,6 +18,9 @@
      */
 
     return $aLang = array(
-        'charset'           => 'UTF-8',
-        'WBL_OLARK_NS_LINK' => 'Fragen? Anregungen?'
+        'charset'                          => 'UTF-8',
+        'WBL_OLARK_NS_LINK'                => 'Fragen? Anregungen?',
+        'WBL_OLARK_VIEWS'                  => 'Der User befindet sich auf der Seite: %s',
+        'WBL_OLARK_BASKETINFORMATION'      => 'Im Warenkorb befinden sich %s Artikel',
+        'WBL_OLARK_BASKETINFORMATIONPRICE' => 'Der Warenkorbwert ist %s'
     );
