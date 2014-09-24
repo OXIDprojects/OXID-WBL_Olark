@@ -19,8 +19,8 @@
 
     return $aLang = array(
         'charset'                          => 'UTF-8',
-        'WBL_OLARK_NS_LINK'                => 'Questions? Feedback?',
-        'WBL_OLARK_VIEWS'                  => 'The user is on the page: %s',
-        'WBL_OLARK_BASKETINFORMATION'      => 'In the basket are %s items',
-        'WBL_OLARK_BASKETINFORMATIONPRICE' => 'The value in the basket is %s'
+        'WBL_OLARK_NS_LINK'                => 'Вопросы? Идеи?',
+        'WBL_OLARK_VIEWS'                  => 'Посетитель находится на странице: %s',
+        'WBL_OLARK_BASKETINFORMATION'      => '%s товаров в корзине',
+        'WBL_OLARK_BASKETINFORMATIONPRICE' => 'Значение в корзине %s'
     );
